@@ -12,7 +12,7 @@ This page contains different projects that I have completed during classes that 
   * [CIS 111 homepage](http://pages.uoregon.edu/cdrath/111/)
 # **CIT 281**
   * Project 1
-  * Project 2
+  * [Project 2](https://github.com/UO-CIT/project-2-cdrath22)
   * Project 3
   * [Project 4](https://uo-cit.github.io/project-4-cdrath22/)
   * Project 5
