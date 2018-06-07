@@ -3,7 +3,7 @@
 ![UO logo](https://around.uoregon.edu/sites/around2.uoregon.edu/files/field/image/uo_logo_green_on_white_2.jpg)
 
 
-## Project Page
+## Project Pages
 
 # **CIS 110**
   * [CIS 110 homepage](http://pages.uoregon.edu/cdrath/110/)
