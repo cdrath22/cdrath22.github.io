@@ -1,4 +1,5 @@
 ## CIT Code Portfolio
+This page contains different projects that I have completed during classes that were a part of the CIT Minor at the University of Oregon
 
 ![UO logo](https://around.uoregon.edu/sites/around2.uoregon.edu/files/field/image/uo_logo_green_on_white_2.jpg)
 
